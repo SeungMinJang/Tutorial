@@ -1,5 +1,8 @@
-Tensorflow 공식 사이트
-https://www.tensorflow.org/?hl=ko
+Tensorflow official site
+https://www.tensorflow.org/
+
+Keras Official site
+https://keras.io/
 
 Tensorflow Blog
 https://blog.tensorflow.org/2019/09/tensorflow-20-is-now-available.html
